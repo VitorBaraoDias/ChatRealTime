@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7c510cfe-415c-4bdf-ba98-205dd4a61227" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/chat.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/perfil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/perfil.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660182833asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660182944asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660183109asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660183279asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660183337asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660183427asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660183673asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660183697asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660183888asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660184044asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660184115asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660184254asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660184370asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660184651asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660184835asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660184933transporte_estacionamento.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660185023transporte_estacionamento.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660185038asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/1660185099asfeLogo_round_130px-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/signup.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/signup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina/chat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/pagina/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pagina/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/php/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/php/signup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
